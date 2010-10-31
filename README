@@ -1,1 +1,7 @@
-A standalone websocket server python implementation based on draft 76
+A standalone websocket server python implementation based on draft 76.
+
+It is by no means complete however useful I you need to move data around with out much effort
+
+It is a modified version of websocketserver, I added the 76 part of the protocol.
+
+
